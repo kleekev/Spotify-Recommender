@@ -1,7 +1,8 @@
 # Spotify Recommender
 Website can be found on https://spotify-recommend.herokuapp.com.
 Backend can be found on https://spotify-recommend-backend.herokuapp.com.
-
+# Update 
+The datebase is no longer up and thus the recommender will no longer work. However, the website can still be acessed locally.
 ## How to run application locally
 
 - Once you pull the repository, cd into the ```server``` folder and run 

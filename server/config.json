@@ -1,0 +1,9 @@
+{
+    "rds_host": "spotifydb.c3tss9erhn8z.us-east-1.rds.amazonaws.com",
+    "rds_port": "3306",
+    "rds_user": "admin",
+    "rds_password" : "U7RYHdhD2aUennS",
+    "rds_db": "SPOTIFY_DB",
+    "server_host": "127.0.0.1",
+    "server_port":"8080"
+}
